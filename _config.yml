@@ -104,5 +104,5 @@ theme: hexo-theme-particlex
 deploy: #博客部署
   type: gitHub
   repo: https://github.com/Xiayutian105/Xiayutian105.github.io.git #GITHUB仓库
-  branch: master
+  branch: main
   message: '成功'#自定义提交消息
