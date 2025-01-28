@@ -15,7 +15,7 @@ description: "更简单的小企鹅 fcitx5输入法+白霜词库的搭配指南"
 
 > ​       ※ 此处注意如果选择在更新更新器下载，那么输入法与插件都要在这上面下载。如果和我一样没有采用更新器，单独下载；那么两个都要网站单独下载。并安装。
 
-![cut-off](./%E5%B0%8F%E4%BC%81%E9%B9%85fcitx5%E8%BE%93%E5%85%A5%E6%B3%95+%E7%99%BD%E9%9C%9C%E8%AF%8D%E5%BA%93%E7%9A%84%E6%90%AD%E9%85%8D%E6%9B%B4%E7%AE%80%E5%8D%95/q3ydcbrd_.png)
+<img src="./%E5%B0%8F%E4%BC%81%E9%B9%85fcitx5%E8%BE%93%E5%85%A5%E6%B3%95+%E7%99%BD%E9%9C%9C%E8%AF%8D%E5%BA%93%E7%9A%84%E6%90%AD%E9%85%8D%E6%9B%B4%E7%AE%80%E5%8D%95/q3ydcbrd.png" alt="cut-off" style="zoom:80%;" />
 
 我的方法
 
